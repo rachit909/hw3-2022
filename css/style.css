@@ -53,7 +53,7 @@ div{
     border-top: 2px solid #FFFFFF;
     border-right: 5px solid #FFFFFF;
     border-bottom: 0px;
-    border-left: 2px;
+    border-left: 0px;
 }
 .blue h2, .blue p{
     color:  #C4C4C4;
